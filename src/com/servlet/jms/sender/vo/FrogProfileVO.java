@@ -14,6 +14,10 @@ public class FrogProfileVO implements Serializable {
 	private int price;
 	private String email;
 
+	/**
+	 * 
+	 * @return
+	 */
 	public String getName() {
 		return name;
 	}
