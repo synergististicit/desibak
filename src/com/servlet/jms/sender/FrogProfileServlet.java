@@ -31,7 +31,7 @@ import com.servlet.jms.sender.vo.FrogProfileVO;
 public class FrogProfileServlet extends HttpServlet {
 
 	/**
-	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 * @see Raman
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String name=request.getParameter("name");
