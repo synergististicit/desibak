@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 
  * @author VC1 This class must implements Serialization... Because this object
- *         has to travel over the network..........
+ *         has to travel over the network..........sss
  *
  */
 public class FrogProfileVO implements Serializable {
