@@ -21,6 +21,7 @@ import com.servlet.jms.sender.vo.FrogProfileVO;
 
 /**
  * Servlet implementation class FrogProfileServlet
+ * JSJSJS
  */
 public class FrogProfileServlet extends HttpServlet {
 
